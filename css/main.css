@@ -1,3 +1,4 @@
+/*Edited and modified by Hieu Nguyen*/
 .container {
 	margin: 3em auto;
 	width: 600px;
@@ -44,4 +45,9 @@
 .error {
 	background-color: #F78181;
 	padding: 1em;
+}
+/*I have added this to make the user-name have a readable and viewable font.*/
+.user-name {
+  font-size: 30px;
+  font-weight: bold;
 }
