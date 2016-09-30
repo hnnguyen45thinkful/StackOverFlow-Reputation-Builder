@@ -47,7 +47,7 @@
 	padding: 1em;
 }
 /*I have added this to make the user-name have a readable and viewable font.*/
-.user-name {
-  font-size: 30px;
+.user {
+  font-size: 20px;
   font-weight: bold;
 }
