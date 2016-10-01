@@ -138,7 +138,7 @@ $(document).ready( function() {
 		var tags = $(this).find("input[name='tags']").val();
 		getUnanswered(tags);
 	});
-
+//Here is what I added similar to the top part of the unanswerwed getter.
 	$('.inspiration-getter').submit(function(e){
 		e.preventDefault();
 		$('.results').html('');
